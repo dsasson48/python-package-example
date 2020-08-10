@@ -8,6 +8,8 @@ python:
 
 install:
 - pip install pytest --quiet
+- pip install .
+
 
 
 script:
