@@ -1,4 +1,4 @@
-python-package-example
+[![Build Status](https://www.travis-ci.org/dsasson48/python-package-example.svg?branch=master)](https://www.travis-ci.org/dsasson48/python-package-example)
 
 This is a minimal python package, for use alongside the lesson: https://github.com/BillMills/pythonPackageLesson
 
