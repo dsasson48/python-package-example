@@ -11,4 +11,4 @@ install:
 
 
 script:
-   - 'pytest tests'
+   - 'pytest tests/test.py'
